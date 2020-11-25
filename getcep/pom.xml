@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>getcep</groupId>
 	<artifactId>getcep</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.3-SNAPSHOT</version>
 	<name>getcep</name>
 	<description>Microserviço de consulta a api do viacep</description>
 
