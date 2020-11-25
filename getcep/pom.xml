@@ -9,11 +9,11 @@
 		<version>2.4.0</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
-	<artifactId>demo</artifactId>
+	<groupId>getcep</groupId>
+	<artifactId>getcep</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
-	<description>Demo project for Spring Boot</description>
+	<name>getcep</name>
+	<description>Microserviço de consulta a api do viacep</description>
 
 	<properties>
 		<java.version>11</java.version>
